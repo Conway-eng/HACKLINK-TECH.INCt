@@ -1,7 +1,7 @@
 {
-    "name": "host.talkdrove.com",
+    "name": "HACKLINK TECH.INC",
     "version": "1.0.0",
-    "description": "A system created by Hamza",
+    "description": "A system created by HACKLINK TECH.INC",
     "main": "Hamza.js",
     "scripts": {
         "start": "node Hamza.js",
